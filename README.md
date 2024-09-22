@@ -1,4 +1,4 @@
-=consequis / rdn75 / ew13a
+consequis / rdn75 / ew13a
 
 <!---
 consequis/consequis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
